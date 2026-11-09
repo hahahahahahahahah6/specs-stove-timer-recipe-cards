@@ -2,6 +2,10 @@
 
 A hands-free cooking coach for Snap Spectacles (Lens Studio).
 
+## Demo video
+
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=2D4mGPGG4no) — the Lens running in Lens Studio's Interactive Preview, with the steps advancing and both burner timers counting down in 60x demo mode.
+
 ## What it does
 
 Cooking goes wrong in the gaps: you are mid-step with oily hands, the sauce needs ten
